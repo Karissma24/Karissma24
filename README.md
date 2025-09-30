@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Karissma24/Karissma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🌸 Hi, I’m Karissma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Computer Science student at East Texas A&M University (Graduating May 2026, GPA 3.6)  
+💻 Interested in Software Engineering, Application Development, and Web Development 
+🌷 Passionate about building projects that make an impact, like **HealthMate**  
+
+---
+
+## 🛠 Skills  
+- **Languages:** C++, Python, Java, R, Dart  
+- **Machine Learning:** Regression, Naive Bayes, Random Forest, Gradient Boosting, XGBoost  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Tools & Cloud:** AWS, GitHub, Excel, Canva  
+
+---
+
+## 🌺 Featured Project: HealthMate  
+A healthcare management app designed to support **fitness, diet, and mental health**.  
+- 🤖 Built an **AI chatbot** to provide health guidance and mental health support  
+- 📍 Added **geolocation** to help users find nearby clinics and hospitals  
+- 📊 Used **data analytics** to identify trends in user symptoms and health issues  
+- 🎨 Focused on a **user-friendly design** to make tracking health simple and supportive  
+
+---
+
