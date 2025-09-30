@@ -1,6 +1,6 @@
 
 
-# 🌸 Hi, I’m Karissma  
+# Hi, I’m Karissma  
 
 🎓 Computer Science student at East Texas A&M University (Graduating May 2026, GPA 3.6)  
 💻 Interested in Software Engineering, Application Development, and Web Development 
